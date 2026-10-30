@@ -1,0 +1,15 @@
+C:\Users\Symon017\source\repos\Consumo_API_CSharp\Consumo_API_CSharp\bin\Debug\net10.0\Consumo_API_CSharp.exe
+C:\Users\Symon017\source\repos\Consumo_API_CSharp\Consumo_API_CSharp\bin\Debug\net10.0\Consumo_API_CSharp.deps.json
+C:\Users\Symon017\source\repos\Consumo_API_CSharp\Consumo_API_CSharp\bin\Debug\net10.0\Consumo_API_CSharp.runtimeconfig.json
+C:\Users\Symon017\source\repos\Consumo_API_CSharp\Consumo_API_CSharp\bin\Debug\net10.0\Consumo_API_CSharp.dll
+C:\Users\Symon017\source\repos\Consumo_API_CSharp\Consumo_API_CSharp\bin\Debug\net10.0\Consumo_API_CSharp.pdb
+C:\Users\Symon017\source\repos\Consumo_API_CSharp\Consumo_API_CSharp\obj\Debug\net10.0\Consumo_API_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Symon017\source\repos\Consumo_API_CSharp\Consumo_API_CSharp\obj\Debug\net10.0\Consumo_API_CSharp.AssemblyInfoInputs.cache
+C:\Users\Symon017\source\repos\Consumo_API_CSharp\Consumo_API_CSharp\obj\Debug\net10.0\Consumo_API_CSharp.AssemblyInfo.cs
+C:\Users\Symon017\source\repos\Consumo_API_CSharp\Consumo_API_CSharp\obj\Debug\net10.0\Consumo_API_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Symon017\source\repos\Consumo_API_CSharp\Consumo_API_CSharp\obj\Debug\net10.0\Consumo_API_CSharp.dll
+C:\Users\Symon017\source\repos\Consumo_API_CSharp\Consumo_API_CSharp\obj\Debug\net10.0\refint\Consumo_API_CSharp.dll
+C:\Users\Symon017\source\repos\Consumo_API_CSharp\Consumo_API_CSharp\obj\Debug\net10.0\Consumo_API_CSharp.pdb
+C:\Users\Symon017\source\repos\Consumo_API_CSharp\Consumo_API_CSharp\obj\Debug\net10.0\Consumo_API_CSharp.genruntimeconfig.cache
+C:\Users\Symon017\source\repos\Consumo_API_CSharp\Consumo_API_CSharp\obj\Debug\net10.0\ref\Consumo_API_CSharp.dll
+C:\Users\Symon017\source\repos\Consumo_API_CSharp\Consumo_API_CSharp\obj\Debug\net10.0\Consumo_.CF3A4C0A.Up2Date

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Consumo_API_CSharp/1.0.0": {
+        "runtime": {
+          "Consumo_API_CSharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Consumo_API_CSharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
